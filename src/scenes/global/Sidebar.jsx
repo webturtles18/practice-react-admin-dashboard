@@ -8,7 +8,6 @@ import {
 import {
   Box,
   IconButton,
-  InputButton,
   Typography,
   useTheme,
 } from "@mui/material";
@@ -26,7 +25,6 @@ import BarChartOutlinedIcon from "@mui/icons-material/BarChartOutlined";
 import PieChartOutlineOutlinedIcon from "@mui/icons-material/PieChartOutlineOutlined";
 import TimelineOutlinedIcon from "@mui/icons-material/TimelineOutlined";
 import MapOutlinedIcon from "@mui/icons-material/MapOutlined";
-import { color } from "@mui/system";
 import userAvatar from "../../assets/user.jpg";
 
 const Item = ({ title, to, icon, selected, setSelected }) => {

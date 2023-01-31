@@ -1,6 +1,15 @@
 ## Install
 
+```git clone git@github.com:webturtles18/practice-react-admin-dashboard.git```
+
+```git pull```
+
 ```npm install```
+
+```npm run start```
+
+## Build
+```npm run build```
 
 ## Packages
 
