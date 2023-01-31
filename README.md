@@ -13,43 +13,30 @@
 
 ## Packages
 
-- React Router
+- [React Router](https://reactrouter.com/en/main)
 
     ``` npm install react-router-dom@6 ```
 
-    [React Router](https://reactrouter.com/en/main)
-
-- Side bar
+- [React Pro Sidebar](https://github.com/azouaoui-med/react-pro-sidebar#readme)
 
     ``` npm install react-pro-sidebar ```
 
-    [React Pro Sidebar](https://github.com/azouaoui-med/react-pro-sidebar#readme)
-
-- Form Library
+- [Form Library Docs](https://formik.org/docs/overview#installation)
 
     ``` npm install formik ```
 
-    [Formik Docs](https://formik.org/docs/overview#installation)
-
-- Validation Library
+- [Validation Library Yup](https://github.com/jquense/yup)
 
     ``` npm install yup ```
 
-    [Yup](https://github.com/jquense/yup)
+- [Material UI](https://mui.com/material-ui/getting-started/installation/)
 
-- Material UI
-``` npm install @mui/material @emotion/react @emotion/styled ```
+    ``` npm install @mui/material @emotion/react @emotion/styled ```
 
-    [Material UI](https://mui.com/material-ui/getting-started/installation/)
-
-- Fullcalendar
+- [FullCalendar Docs](https://fullcalendar.io/docs)
 
     ``` npm install @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list ```
 
-    [FullCalendar Docs](https://fullcalendar.io/docs)
-
-- Nivo Chart
+- [Nivo Chart Docs](https://nivo.rocks/components/)
 
     ``` npm install @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo ```
-    
-    [Nivo Docs](https://nivo.rocks/components/)
