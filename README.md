@@ -41,10 +41,3 @@
 - [Nivo Chart Docs](https://nivo.rocks/components/)
 
     ``` npm install @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo ```
-
-
-// "@fullcalendar/core": "^6.0.3",
-    // "@fullcalendar/daygrid": "^6.0.3",
-    // "@fullcalendar/list": "^6.0.3",
-    // "@fullcalendar/timegrid": "^6.0.3",
-    
