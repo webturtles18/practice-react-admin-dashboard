@@ -35,8 +35,16 @@
 
 - [FullCalendar Docs](https://fullcalendar.io/docs)
 
-    ``` npm install @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list ```
+    ``` npm install @fullcalendar/react @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list ```
+    ``` yarn add @fullcalendar/core @fullcalendar/react @fullcalendar/interaction @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list ```
 
 - [Nivo Chart Docs](https://nivo.rocks/components/)
 
     ``` npm install @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo ```
+
+
+// "@fullcalendar/core": "^6.0.3",
+    // "@fullcalendar/daygrid": "^6.0.3",
+    // "@fullcalendar/list": "^6.0.3",
+    // "@fullcalendar/timegrid": "^6.0.3",
+    
